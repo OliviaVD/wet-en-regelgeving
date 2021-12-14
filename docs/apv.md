@@ -6,9 +6,9 @@
 |---|---|
 | Overheidsorganisatie      | Hoge Raad Tedeapolis |
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis 2021 |
-| Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis|
-| Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid|
+| Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis |
+| Vastgesteld door          | De Hoge Raad |
+| Onderwerp                 | Openbare orde en veiligheid |
 
 ### Opmerkingen met betrekking tot de verordening
 
@@ -40,8 +40,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
     * Categorie 7: permanente ban
     * Categorie 8: account wipe
 
-2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. De opgelegde straf zal naderhand besproken worden binnen de Hoge Raad en waar nodig worden bijgesteld. Dit om eventuele verdere schade te beperken terwijl er gekeken wordt wat er precies gebeurt is.
-
+2. De straffen van categorie 5, 6 en 7 kunnen preventief worden uitgedeeld wanneer sprake is van een overtreding op heterdaad. 
 3. Er kan door een stafflid gekozen worden om straffen te verhogen en/of te verlagen op basis van de context, situatie of eerdere straffen/waarschuwingen van de overtreder in kwestie. Wanneer je het niet eens bent met een oordeel van een stafflid kan je hiervoor een ticket aanmaken.
 4. Bij een eerste overtreding kan er voor gekozen worden in plaats van een Schriftelijke waarschuwing (Categorie 1) een Mondelinge waarschuwing uit te delen. Hierbij wordt ook gecontroleerd of de persoon daadwerkelijk de regels heeft gelezen en deze begrijpt.
 5. Een mondelinge waarschuwing dient in een notitie bij deze persoon aangegeven te zijn, anders is deze niet geldig.
@@ -172,7 +171,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life.
     * Het valt onder no value of life om de noodknop in te drukken terwijl iemand een vuurwapen, steekwapen of slagwapen op je richt.
     * Het is geen no value of life indien een persoon in een voertuig met deuren zit niet meewerkt, als je deze van de buitenkant bedreigt met een steek- of slagwapen.
-    * Ook valt het niet onder no value of life om een vuurwapen te trekken als je bedreigd wordt met een steek- of slagwapen.
+    * Het is geen no value of life om een vuurwapen te trekken, waarneer je deze al in je handen hebt, als je bedreigd wordt met een steek- of slagwapen.
     * De beslissing van een stafflid betreft alle bovenstaande en overige situaties is altijd leidend.
 
 ### Artikel 12 - New Life Rule
@@ -286,7 +285,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Met betrekking tot de volgende dingen/situaties is overvallen/oplichten niet toegestaan:
     * Het stelen/overvallen van bankgeld
     * Voertuigen
-    * Loodsen
+    * Loodsen, waaronder ook de sleutels
     * Spelers te overvallen, te ontvoeren of negatief te bejegenen bij het gemeentehuis
     * Facturen en/of andere items welke gerelateerd aan een baan zijn
     * Overheids voorwerpen
@@ -340,8 +339,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 4. Roleplay met de ANWB moet uitgebreid en realistisch zijn. Er wordt verwacht dat je eerlijk bent over hoe de schade is ontstaan. Ook dien je mee te werken met de roleplay en mag je de anwb medewerker niet forceren om voertuigen te repareren. Anwb medewerkers zijn ten allen tijde leidend in hun roleplay.
 5. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
 6. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoert is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoert worden, als er 5 aanwezig zijn mag er geen ontvoert worden.
-7. Een uitzondering op lid 5 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
-8. Indien de regel(s) beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
+7. Meldingen versturen naar de telefoonnummer van de DSI, BSB of Recherche is verboden, dit mag alleen gedaan worden wanneer dit word aangegeven door een werknemer hiervan.
+8. Een uitzondering op lid 5 geldt voor de ambulance. Hierbij moeten er te allen tijde 7 medewerkers beschikbaar blijven. Kortom, als er 8 ambulancemedewerkers aanwezig zijn, dan mag er 1 à 2 ontvoerd worden.
+9. Indien de regel(s) beschreven in dit artikel overtreden wordt/worden zal dit bestraft worden met een straf volgens de 1e categorie.
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
@@ -529,7 +529,8 @@ Onderstaande regels tellen alleen op Narcopolis
 ### Artikel N-3 - Claimen van het eiland
 
 1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
-2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
+2. Het claimen van een actieve pluklocatie is wel toegestaan.
+3. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
 
 ### Artikel N-4 - Campen van een niet actieve drugslocatie
 
@@ -540,7 +541,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel T-1 - Uitbreken uit de gevangenis
 
-1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
+1. Het is verboden om tussen 00:00 en 10:00 uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
 
 ## Slotbepaling: Regels in het kort
